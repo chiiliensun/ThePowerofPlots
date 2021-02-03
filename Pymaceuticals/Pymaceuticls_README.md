@@ -3,7 +3,7 @@
 
 ### Science is for Me
 
-![Laboratory](Images/Laboratory.jpg)
+![Laboratory](images/Laboratory.jpg)
 
 
 #### Background
