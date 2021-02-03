@@ -3,7 +3,7 @@
 
 ### Science is for Me
 
-![Laboratory](images/Laboratory.jpg)
+![Laboratory](Images/Laboratory.jpg)
 
 
 #### Background
@@ -11,16 +11,22 @@
 
 >In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.
 
-## Observations and Insights 
+##                                              Observations and Insights 
+
+
 
 ![PiePlotPandas](images/PiePlotPandas.png)
 
 1. When analyzing the genders used in the research, it's easy to determine the research lab used a fairly equivalent female to male ratio of mice. Further you could examine if there was any indicators that a certain drug had more efficacy on one gender versus another. 
 
 
+
+
 ![BoxPlot](images/BoxPlot.png)
 
 2. The boxplot examines the differences for the four drugs, Capomulin, Ramicane, Infubinol, Ceftamin. This is based on the average final tumor volume while including outliers. It was interesting that only one drug, Infubinol, had an outlier and determining why or possible cause would be helpful. Capomulin and Ramicane had the most similar values with an indication that it was more equally effective. 
+
+
 
 
 ![LinePlot](images/LinePlot.png)
